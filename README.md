@@ -10,4 +10,6 @@
 - 006_trail_hair
 - 007_group_sample
 - 008_increase_particles
+- 009_basic_rigidbody
+- 010_penrose_triangle
 - 
