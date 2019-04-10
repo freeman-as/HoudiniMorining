@@ -18,4 +18,32 @@
 - **`opinputpath()`**
   指定したノードに入力されたノードのパスを取得
 
+- **`normalize()`**
+
+- **`radians()`**
+
+- **`set()`**
+
+- **`normalize()`**
+
+- **`findattribval()`**
+
+- **`addprim()`**
+
+- **`setprimgroup()`**
+
+- **`point()`**
+
+- **`addpoint()`**
+
+- **`distance()`**
+
+- **`setpointattrib()`**
+
+- **`addvertex()`**
+
+- 
+
+
+
 

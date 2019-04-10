@@ -12,4 +12,6 @@
 - 008_increase_particles
 - 009_basic_rigidbody
 - 010_penrose_triangle
-- 
+- 013_dynamic_wave
+- 015_organic_voronoi_patterns
+- 017_visualizing_flight_paths
