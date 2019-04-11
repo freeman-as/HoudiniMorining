@@ -42,7 +42,36 @@
 
 - **`addvertex()`**
 
+- **`itoa()`**
+  整数を文字列に変換
+
+- **`split()`**
+  文字列をトークンに分割
+  <https://www.sidefx.com/docs/houdini/vex/functions/split.html>
+
+- **`splitpath()`**
+  ファイルパスをディレクトリ部分と名前部分に分ける
+  https://www.sidefx.com/docs/houdini/vex/functions/splitpath.html
+
+- **`addvertex()`**
+
+- **`addvertex()`**
+
+- **`addvertex()`**
+
+- **`addvertex()`**
+
+- **`addvertex()`**
+
+- **`addvertex()`**
+
 - 
+
+
+
+
+
+
 
 
 
