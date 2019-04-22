@@ -16,3 +16,13 @@
 - 015_organic_voronoi_patterns
 - 017_visualizing_flight_paths
 - 018_movie_color_visualization
+- 019_mod_noise_displacement
+- 020_snowflake
+- 021_geometry_with_vex
+- 022_dna_plexus_growth
+- 023_quartz_crystal
+- 024_parallel_transport
+- 025_space_filling_curves
+- 026_abstract_shapes
+- 027_space_colonization
+- 
