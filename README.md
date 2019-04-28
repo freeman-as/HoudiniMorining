@@ -25,4 +25,9 @@
 - 025_space_filling_curves
 - 026_abstract_shapes
 - 027_space_colonization
+- 028_diffusion_limited_aggregation
+- 029_curl_noise_flow
+- 030_fractal_ornaments
+- 031_colored_trails
+- 032_quilling
 - 
